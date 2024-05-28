@@ -1,16 +1,21 @@
+# LeetCode problem 1768
+# https://leetcode.com/problems/merge-strings-alternately
+# You are given two strings word1 and word2.
+# Merge the strings by adding letters in alternating order, starting with word1.
+# If a string is longer than the other, append the additional letters onto the end of the merged string.
+# Return the merged string.
+
+# Paste the contents of the mergeAlternately function into LeetCode
+
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         mergedString = []
-        index = 0
 
-        # which word is longer
-        # loop through shorter word
         word1List = []
-        word2List = []
-
         for x in word1:
             word1List.append(x)
 
+        word2List = []
         for x in word2:
             word2List.append(x)
 
