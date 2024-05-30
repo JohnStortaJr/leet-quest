@@ -1,4 +1,4 @@
-# LeetCode problem 1768
+# LeetCode Problem 1768
 
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
