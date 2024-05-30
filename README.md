@@ -1,6 +1,32 @@
 # leet-quest
-Python implementations of LeetCode problems
+## Python implementations of LeetCode problems
+The problems are organized according to the [**NeetCode roadmap**](https://neetcode.io/roadmap).
 
-Solutions are focused on solving the problem rather than code or performance optimization. Comments included to provide context on the approach.
+Not every NeetCode problem in the roadmap directly corresponds to a LeetCode problem. NeetCode's `Duplicate Integer` problem aligns with LeetCode's `Contains Duplicate` problem, though there are slight differences. The intention is to use the NeetCode roadmap as the guide to focus on the important problems, but solve the problem within LeetCode. Ideally, the solutions will work for both problems.
 
 Problems prefixed with an `x` are part of the backlog and not yet solved.
+
+### Methodology
+Solutions are focused on solving the problem and learning the patterns rather than optimizing code or performance.
+
+I include as many comments within the code as possible to explain my approach and implementation. This makes the code wordy, but easier to refer back to and understand.
+
+### Roadmap
+* Arrays & Hashing
+  * Two Pointers
+    * Binary Search
+    * Sliding Windows
+    * Linked List
+      * Trees
+        * Tries
+        * Heap/Priority Queues
+          * Intervals
+          * Greedy
+          * Advanced Graphs
+        * Backtracking
+          * Graphs
+          * 1-D Dynamic Programming
+            * 2-D Dynamic Programming
+            * Bit Manipulation
+              * Math & Geometry
+  * Stack
