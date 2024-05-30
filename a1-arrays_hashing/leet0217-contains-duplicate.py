@@ -18,10 +18,6 @@
 #   the list, but rather create a copy using a data structure that does
 #   not allow duplicates (such as a set). Then compare the length of each
 #   If the lengths do not match, then there was a duplicate
-#### I am not crazy about this solution since it is meant to be an easy problem
-#### and beginners may not yet be aware of the different data structures. And
-#### it essentially makes this a test of performance rather than logic. I
-#### suppose that was the intention.
 # My solution below is not entirely mine. It was found in the solutions at
 #   LeetCode.
 
