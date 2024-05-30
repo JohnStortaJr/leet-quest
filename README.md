@@ -4,7 +4,7 @@ The problems are organized according to the [**NeetCode roadmap**](https://neetc
 
 Not every NeetCode problem in the roadmap directly corresponds to a LeetCode problem.
 
-_For Example_, NeetCode's `Duplicate Integer` problem aligns with LeetCode's `Contains Duplicate` problem, though there are slight differences. The intention is to use the NeetCode roadmap as the guide to focus on the important problems, but solve the problem as defined by LeetCode. Ideally, the solutions will work for both problems.
+_For Example_, NeetCode's [Duplicate Integer](https://neetcode.io/problems/duplicate-integer) problem aligns with LeetCode's [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) problem, though there are slight differences. The intention is to use the NeetCode roadmap as the guide to focus on the important problems, but solve the problem as defined by LeetCode. Ideally, the solutions will work for both problems.
 
 Problems prefixed with an `x` are part of the backlog and not yet solved.
 
@@ -32,3 +32,4 @@ I include as many comments within the code as possible to explain my approach an
             * 2-D Dynamic Programming
             * Bit Manipulation
               * Math & Geometry
+
