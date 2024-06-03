@@ -3,8 +3,8 @@
 
 # Not the fastest solution, but I feel that the goal is to first solve the problems
 # logically. Many of the other solutions just used the sorted() function. This is fine
-# and in the real world would be better, but I am trying to use pen and paper to solve
-# the problems rather than functions. 
+# and in the real world would be better, but I believe the test is it to first come 
+# up with the logic on my own and then use shortcuts to improve performance.
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
