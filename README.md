@@ -7,7 +7,8 @@ Not every NeetCode problem in the roadmap directly corresponds to a LeetCode pro
 _For Example_, NeetCode's [Duplicate Integer](https://neetcode.io/problems/duplicate-integer) problem aligns with LeetCode's [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) problem, though there are slight differences. The intention is to use the NeetCode roadmap as the guide to focus on the important patterns, but solve the problem as defined by LeetCode. Ideally, the solutions will work for both problems.
 
 * Problems prefixed with an `x` are extra problems that are not part of the NeetCode roadmap, but were completed for additional experience on that topic.
-* Code that is currently being worked is placed on a separate branch
+* Problems prefixed with an `_` are currently being worked on.
+* A new branch is created each week with the problems targeted for that week
 * The `icebox` folder contains problems that I intend to solve, but have not yet started.
 
 ### Methodology
