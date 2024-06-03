@@ -8,6 +8,7 @@ _For Example_, NeetCode's [Duplicate Integer](https://neetcode.io/problems/dupli
 
 * Problems prefixed with an `x` are extra problems that are not part of the NeetCode roadmap, but were completed for additional experience on that topic.
 * Problems prefixed with an `_` are currently being worked on.
+* A new branch is created each week with the problems targeted for that week
 * The `icebox` folder contains problems that I intend to solve, but have not yet started.
 
 ### Methodology
