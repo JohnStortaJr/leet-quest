@@ -1,5 +1,6 @@
 # LeetCode Problem 0049
 # https://leetcode.com/problems/group-anagrams
+# O(n^2)
 
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
