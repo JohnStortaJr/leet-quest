@@ -1,5 +1,9 @@
 # LeetCode Problem 0049
 # https://leetcode.com/problems/group-anagrams
+
+#
+# Python experience: 1 week
+# Time to Solve: 1:20
 # O(n^2)
 
 class Solution:
