@@ -7,13 +7,11 @@
 
 # The challenge of this problem is more about solving it to fit within the O(n) constraints
 # rather than the problem itself
-# This problem highlights one of my concerns with LeetCode. It is too focused on the Big O rather
-# than the solution. The code here works and was accepted by NeetCode. But LeetCode rejects it
-# because it times out for a very large set of inputs. The accepted solutions all seem to use
-# the same logical approach as this code, but implement it differently (using prefix vs Math)
-# I feel this discourages entry-level developers by implying that there is only a single
-# method for solving the problem.
-# This code is not the best code, but it solves the problem defined.
+
+# My approach is to capture the products of elements
+# before and after each index and then combine them.
+# My solution uses the math module to do this while traversing the list just once
+# See leetM0238b-product-of-array-except-self.py for the solution using a different approach without the math module
 import math
 
 class Solution:
