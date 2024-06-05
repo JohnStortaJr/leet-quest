@@ -2,9 +2,9 @@
 # https://leetcode.com/problems/longest-consecutive-sequence
 
 # Python experience: 1 week
-# Time to Solve: 
-# O(n)
-
+# Time to Solve: 1:00
+# O(n log n)
+# I use a sort which makes this a log n and then the iteration adds an n
 
 class Solution:
     def longestConsecutive(self, nums: list[int]) -> int:
