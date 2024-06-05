@@ -29,7 +29,7 @@ class Solution:
 
         # iterate through the list
         for i in range(0,len(sortedList)-1):
-            # Is the next value in the set one greater than the current value
+            # Is the next value in the list one greater than the current value
             #print(f"{sortedList[i+1]} - {currentSequence} - {maxSequence}")
             if sortedList[i+1] == sortedList[i]+1:
                 currentSequence += 1
